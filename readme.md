@@ -2,6 +2,11 @@
 
 Converts test cases written using the ERIGrid HTD Template (https://github.com/ERIGrid2/Holistic-Test-Description) from Word to Excel.
 
+The HTD Word templates can be found here: https://github.com/ERIGrid2/Holistic-Test-Description/tree/master/Templates
+The HTD Excel templates can be found here: https://github.com/ERIGrid2/excel2xml-input
+
+At the moment only Excel templates V1.X are supported.
+
 ## Usage
 
 ```
